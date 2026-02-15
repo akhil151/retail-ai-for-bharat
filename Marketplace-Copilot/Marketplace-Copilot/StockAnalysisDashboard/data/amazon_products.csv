@@ -1,0 +1,31 @@
+sku,asin,product_name,category,brand,listing_price,your_price,quantity_available,condition,fulfillment_channel,status
+SKU001,B010433218,Samsung Galaxy M34 5G (6GB+128GB),Mobiles,Samsung,20398,16999,34,New,FBA,Active
+SKU002,B016155940,Realme Narzo 60 Pro 5G (8GB+128GB),Mobiles,Realme,26398,21999,47,New,FBA,Active
+SKU003,B019283276,Redmi Note 13 Pro (8GB+256GB),Mobiles,Xiaomi,29998,23999,72,New,FBM,Active
+SKU004,B065328710,OnePlus Nord CE 3 Lite 5G,Mobiles,OnePlus,24998,19999,71,New,FBA,Active
+SKU005,B014893252,Poco X6 5G (8GB+256GB),Mobiles,Poco,26248,20999,35,New,FBM,Active
+SKU006,B083465787,boAt Rockerz 450 Bluetooth Headphones,Audio,boAt,2158,1799,238,New,FBM,Active
+SKU007,B076311656,boAt Airdopes 131 TWS Earbuds,Audio,boAt,1723,1499,125,New,FBA,Active
+SKU008,B032677360,Noise Buds VS104 Plus TWS,Audio,Noise,1558,1299,222,New,FBA,Active
+SKU009,B012191361,JBL C100SI Wired Earphones,Audio,JBL,838,699,118,New,FBA,Active
+SKU010,B051354278,Sony WH-CH520 Wireless Headphones,Audio,Sony,5738,4990,113,New,FBM,Active
+SKU011,B000524278,Mi Power Bank 3i 20000mAh,Accessories,Mi,2598,1999,436,New,FBA,Active
+SKU012,B022602563,Ambrane 10000mAh Power Bank,Accessories,Ambrane,1123,899,354,New,FBA,Active
+SKU013,B042940196,Portronics 20W Fast Charger,Accessories,Portronics,623,499,409,New,FBM,Active
+SKU014,B064823662,Anker 30W USB-C Charger,Accessories,Anker,2123,1699,270,New,FBA,Active
+SKU015,B020037917,Samsung 25W Super Fast Charger,Accessories,Samsung,1623,1299,436,New,FBM,Active
+SKU016,B086872774,boAt Deuce USB 300 Type-C Cable,Accessories,boAt,323,249,362,New,FBA,Active
+SKU017,B076036690,Mi Braided USB-C Cable 1.5m,Accessories,Mi,401,349,468,New,FBM,Active
+SKU018,B090162720,AmazonBasics Lightning to USB-A Cable,Accessories,AmazonBasics,573,499,252,New,FBA,Active
+SKU019,B027193745,Spigen Tough Armor Case,Accessories,Spigen,873,699,185,New,FBA,Active
+SKU020,B071657262,Case-U Silicone Back Cover,Accessories,Case-U,238,199,399,New,FBA,Active
+SKU021,B054948083,Gorilla Armored Tempered Glass,Accessories,Gorilla,373,299,367,New,FBA,Active
+SKU022,B074443135,Noise ColorFit Pro 4 Alpha,Wearables,Noise,3498,2799,120,New,FBA,Active
+SKU023,B071094777,Fire-Boltt Phoenix Ultra,Wearables,Fire-Boltt,2998,2499,129,New,FBM,Active
+SKU024,B074964990,boAt Wave Call 2,Wearables,boAt,2398,1999,59,New,FBA,Active
+SKU025,B093618324,Amazfit Bip 3 Pro,Wearables,Amazfit,4598,3999,82,New,FBA,Active
+SKU026,B099049027,Logitech M331 Silent Plus Mouse,Computer,Logitech,1243,995,195,New,FBA,Active
+SKU027,B016808760,HP X1000 Wired Mouse,Computer,HP,458,399,358,New,FBA,Active
+SKU028,B071274846,Zebronics Zeb-K25 USB Keyboard,Computer,Zebronics,648,499,226,New,FBM,Active
+SKU029,B058867533,Portronics Toad 23 USB Hub,Computer,Portronics,838,699,359,New,FBA,Active
+SKU030,B045961586,SanDisk 64GB Cruzer Blade USB,Computer,SanDisk,838,699,370,New,FBA,Active

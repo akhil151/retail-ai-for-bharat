@@ -1,0 +1,31 @@
+product_id,sku,product_name,category,sub_category,supplier_price,selling_price,stock_quantity,product_status,commission_rate
+P6379402654,SKU001,Samsung Galaxy M34 5G (6GB+128GB),Mobiles,Smartphones,13500,16999,34,ACTIVE,8
+P4131647525,SKU002,Realme Narzo 60 Pro 5G (8GB+128GB),Mobiles,Smartphones,17500,21999,47,ACTIVE,8
+P9537672423,SKU003,Redmi Note 13 Pro (8GB+256GB),Mobiles,Smartphones,19000,23999,72,ACTIVE,8
+P1845146270,SKU004,OnePlus Nord CE 3 Lite 5G,Mobiles,Smartphones,15000,19999,71,ACTIVE,8
+P9117182278,SKU005,Poco X6 5G (8GB+256GB),Mobiles,Smartphones,16500,20999,35,ACTIVE,8
+P3105183473,SKU006,boAt Rockerz 450 Bluetooth Headphones,Audio,Headphones & Earphones,950,1799,238,ACTIVE,12
+P7262473178,SKU007,boAt Airdopes 131 TWS Earbuds,Audio,Headphones & Earphones,850,1499,125,ACTIVE,12
+P4309805009,SKU008,Noise Buds VS104 Plus TWS,Audio,Headphones & Earphones,700,1299,222,ACTIVE,12
+P2475107991,SKU009,JBL C100SI Wired Earphones,Audio,Headphones & Earphones,380,699,118,ACTIVE,12
+P4493534874,SKU010,Sony WH-CH520 Wireless Headphones,Audio,Headphones & Earphones,2800,4990,113,ACTIVE,12
+P2045053315,SKU011,Mi Power Bank 3i 20000mAh,Accessories,Mobile Accessories,1200,1999,436,ACTIVE,15
+P3036541458,SKU012,Ambrane 10000mAh Power Bank,Accessories,Mobile Accessories,550,899,354,ACTIVE,15
+P8356159514,SKU013,Portronics 20W Fast Charger,Accessories,Mobile Accessories,280,499,409,ACTIVE,15
+P3872148951,SKU014,Anker 30W USB-C Charger,Accessories,Mobile Accessories,950,1699,270,ACTIVE,15
+P8708317278,SKU015,Samsung 25W Super Fast Charger,Accessories,Mobile Accessories,750,1299,436,ACTIVE,15
+P5812236231,SKU016,boAt Deuce USB 300 Type-C Cable,Accessories,Mobile Accessories,120,249,362,ACTIVE,15
+P4670656272,SKU017,Mi Braided USB-C Cable 1.5m,Accessories,Mobile Accessories,180,349,468,ACTIVE,15
+P7080531003,SKU018,AmazonBasics Lightning to USB-A Cable,Accessories,Mobile Accessories,280,499,252,ACTIVE,15
+P1491905865,SKU019,Spigen Tough Armor Case,Accessories,Mobile Accessories,380,699,185,ACTIVE,15
+P3799650752,SKU020,Case-U Silicone Back Cover,Accessories,Mobile Accessories,95,199,399,ACTIVE,15
+P3634957885,SKU021,Gorilla Armored Tempered Glass,Accessories,Mobile Accessories,150,299,367,ACTIVE,15
+P3524082400,SKU022,Noise ColorFit Pro 4 Alpha,Wearables,Smart Watches,1600,2799,120,ACTIVE,10
+P2941318699,SKU023,Fire-Boltt Phoenix Ultra,Wearables,Smart Watches,1400,2499,129,ACTIVE,10
+P6797403447,SKU024,boAt Wave Call 2,Wearables,Smart Watches,1100,1999,59,ACTIVE,10
+P8877190659,SKU025,Amazfit Bip 3 Pro,Wearables,Smart Watches,2200,3999,82,ACTIVE,10
+P1256746807,SKU026,Logitech M331 Silent Plus Mouse,Computer,Computer Peripherals,580,995,195,ACTIVE,12
+P7109324808,SKU027,HP X1000 Wired Mouse,Computer,Computer Peripherals,220,399,358,ACTIVE,12
+P6584044997,SKU028,Zebronics Zeb-K25 USB Keyboard,Computer,Computer Peripherals,280,499,226,ACTIVE,12
+P8951718702,SKU029,Portronics Toad 23 USB Hub,Computer,Computer Peripherals,380,699,359,ACTIVE,12
+P7240050455,SKU030,SanDisk 64GB Cruzer Blade USB,Computer,Computer Peripherals,380,699,370,ACTIVE,12

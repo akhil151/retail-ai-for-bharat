@@ -1,0 +1,31 @@
+sku,fsn,product_title,vertical,sub_category,brand,mrp,selling_price,stock_count,listing_status,procurement_sla
+SKU001,FSNF1CBFNO6B9M8,Samsung Galaxy M34 5G (6GB+128GB),Mobiles,Smartphones,Samsung,20398,16999,34,ACTIVE,2
+SKU002,FSN38HYF9SXMECO,Realme Narzo 60 Pro 5G (8GB+128GB),Mobiles,Smartphones,Realme,26398,21999,47,ACTIVE,4
+SKU003,FSNR9OUDOCUZREN,Redmi Note 13 Pro (8GB+256GB),Mobiles,Smartphones,Xiaomi,29998,23999,72,ACTIVE,4
+SKU004,FSNHJK1EYY37Q9A,OnePlus Nord CE 3 Lite 5G,Mobiles,Smartphones,OnePlus,24998,19999,71,ACTIVE,4
+SKU005,FSN87AU5BHXTPDP,Poco X6 5G (8GB+256GB),Mobiles,Smartphones,Poco,26248,20999,35,ACTIVE,2
+SKU006,FSNHPOEVB9OOAED,boAt Rockerz 450 Bluetooth Headphones,Audio,Headphones & Earphones,boAt,2158,1799,238,ACTIVE,2
+SKU007,FSN03DGDZVGPMM8,boAt Airdopes 131 TWS Earbuds,Audio,Headphones & Earphones,boAt,1723,1499,125,ACTIVE,2
+SKU008,FSNKYAYQ3S195JM,Noise Buds VS104 Plus TWS,Audio,Headphones & Earphones,Noise,1558,1299,222,ACTIVE,4
+SKU009,FSNPCF07UQNUPQZ,JBL C100SI Wired Earphones,Audio,Headphones & Earphones,JBL,838,699,118,ACTIVE,2
+SKU010,FSNT7A9TGIQHG9J,Sony WH-CH520 Wireless Headphones,Audio,Headphones & Earphones,Sony,5738,4990,113,ACTIVE,3
+SKU011,FSN19AHEJ8CX9J1,Mi Power Bank 3i 20000mAh,Accessories,Mobile Accessories,Mi,2598,1999,436,ACTIVE,2
+SKU012,FSNRKGYC4OM3WTO,Ambrane 10000mAh Power Bank,Accessories,Mobile Accessories,Ambrane,1123,899,354,ACTIVE,2
+SKU013,FSNWU16HYMQC1A7,Portronics 20W Fast Charger,Accessories,Mobile Accessories,Portronics,623,499,409,ACTIVE,3
+SKU014,FSNTZ9ATSN1U322,Anker 30W USB-C Charger,Accessories,Mobile Accessories,Anker,2123,1699,270,ACTIVE,2
+SKU015,FSN0MY5ZPJAG1OL,Samsung 25W Super Fast Charger,Accessories,Mobile Accessories,Samsung,1623,1299,436,ACTIVE,4
+SKU016,FSNPR75PR2ESPRV,boAt Deuce USB 300 Type-C Cable,Accessories,Mobile Accessories,boAt,323,249,362,ACTIVE,4
+SKU017,FSNY4AWTY088O5O,Mi Braided USB-C Cable 1.5m,Accessories,Mobile Accessories,Mi,401,349,468,ACTIVE,4
+SKU018,FSNQYUN3UVYR0QF,AmazonBasics Lightning to USB-A Cable,Accessories,Mobile Accessories,AmazonBasics,573,499,252,ACTIVE,2
+SKU019,FSNKHKTGBTYZMEP,Spigen Tough Armor Case,Accessories,Mobile Accessories,Spigen,873,699,185,ACTIVE,3
+SKU020,FSN7R8431RUPFR2,Case-U Silicone Back Cover,Accessories,Mobile Accessories,Case-U,238,199,399,ACTIVE,3
+SKU021,FSNFP059P452BFS,Gorilla Armored Tempered Glass,Accessories,Mobile Accessories,Gorilla,373,299,367,ACTIVE,4
+SKU022,FSNH8LMN4R7SGMS,Noise ColorFit Pro 4 Alpha,Wearables,Smart Watches,Noise,3498,2799,120,ACTIVE,4
+SKU023,FSNVLDQ4HEZ5EDJ,Fire-Boltt Phoenix Ultra,Wearables,Smart Watches,Fire-Boltt,2998,2499,129,ACTIVE,3
+SKU024,FSNGNNQFKPL9EKA,boAt Wave Call 2,Wearables,Smart Watches,boAt,2398,1999,59,ACTIVE,4
+SKU025,FSNJEDKTS2H3TZR,Amazfit Bip 3 Pro,Wearables,Smart Watches,Amazfit,4598,3999,82,ACTIVE,2
+SKU026,FSN72RL15F4W0VU,Logitech M331 Silent Plus Mouse,Computer,Computer Peripherals,Logitech,1243,995,195,ACTIVE,3
+SKU027,FSNM7X52DNR9IS2,HP X1000 Wired Mouse,Computer,Computer Peripherals,HP,458,399,358,ACTIVE,2
+SKU028,FSN44P39JYM6IER,Zebronics Zeb-K25 USB Keyboard,Computer,Computer Peripherals,Zebronics,648,499,226,ACTIVE,3
+SKU029,FSNYO0CU4YYJ5CI,Portronics Toad 23 USB Hub,Computer,Computer Peripherals,Portronics,838,699,359,ACTIVE,3
+SKU030,FSNU58CEPSOF1GG,SanDisk 64GB Cruzer Blade USB,Computer,Computer Peripherals,SanDisk,838,699,370,ACTIVE,4
